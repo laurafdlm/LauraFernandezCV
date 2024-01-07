@@ -301,7 +301,7 @@ h1 {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: -1%;
+  left: -3%;
   width: 1px;
   background-color: #ff27a2;
   transform: translateX(-50%);
@@ -381,7 +381,7 @@ h1 {
   height: 55vw;;
   background-color: #191c32;
   color: #fff;
-  min-height: 50vh;
+  min-height: 40vh;
 }
 .contact-section{
   width: 100vw;
